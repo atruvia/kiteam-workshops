@@ -1,12 +1,12 @@
 # kiteam-workshops
 
 ## VM einrichten:
-conda config --set ssl_verify false
-conda update conda -y
-conda update --all -y
-conda install -c conda-forge pydotplus -y
-sudo apt-get install graphviz -y
+conda config --set ssl_verify false \n
+conda update conda -y \n
+conda update --all -y \n
+conda install -c conda-forge pydotplus -y \n
+sudo apt-get install graphviz -y \n \n
 
-cd ~
-cd Dokumente
+cd ~ \n
+cd Dokumente \n
 git clone https://github.com/fiduciagad/kiteam-workshops
