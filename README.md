@@ -9,4 +9,5 @@ sudo apt-get install graphviz -y <br> <br>
 
 cd ~ <br>
 cd Dokumente <br>
-git clone https://github.com/fiduciagad/kiteam-workshops
+git clone https://github.com/fiduciagad/kiteam-workshops <br>
+jupyter notebook
